@@ -1,2 +1,0 @@
-# Hypothesis-
-Hypothesis Testing
